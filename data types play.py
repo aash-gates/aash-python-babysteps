@@ -1,3 +1,5 @@
+#Code written to print the data type of Given Value
+
 print(type(201))
 print(type(12.7))
 print(type(False))
