@@ -22,8 +22,8 @@ print ("Your friend wants to buy",you,"from you by giving you",friend)
 print ("Selling process going on wait.................")
 
 temp = you # you checking the weight of the apple you are going to sell on a scale.
-you = friend # friend has paid you for the apple .
-friend = temp #you sell the apple which was sitting on the scale.
+you = friend # friend paying you for the apple .
+friend = temp #you sell the apple which was sitting on the scale all this time.
 
 #scene 2
 
