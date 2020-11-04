@@ -27,8 +27,7 @@ friend = temp #you sell the apple which was sitting on the scale.
 
 #scene 2
 
-print ("Your friend now has",friend)
-print ("and")
+print ("Your friend now has",friend,"\nand")
 print ("You have the" ,you)
 
 #end of the program 
