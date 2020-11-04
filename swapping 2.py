@@ -15,5 +15,6 @@ y = temp
 
 print (x)
 print (y)
+print (temp)
 
 #end of the Program
