@@ -9,3 +9,5 @@ print(var2) #integer value
 print(var3) #integer value
 print(var4) #integer value
 print(var5) #floating point Value
+
+#end of the program
