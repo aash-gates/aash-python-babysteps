@@ -12,3 +12,5 @@ you,friend = friend,you
 
 print (you)
 print (friend)
+
+#end-of-the-program
