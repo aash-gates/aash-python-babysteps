@@ -1,3 +1,8 @@
+'''
+practice qusestion from chapter 1 Module 5 of IBM Digital Nation Courses
+by Aashik J Krishnan/Aash Gates
+'''
+
 #Code written to print the data type of Given Value
 
 print(type(201))

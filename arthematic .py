@@ -1,3 +1,8 @@
+'''
+practice qusestion from chapter 1 Module 5 of IBM Digital Nation Courses
+by Aashik J Krishnan/Aash Gates
+'''
+
 var1 = 10 #assignment
 var2 = var1 + 2 #addition
 var3 = var1 - 2 #subraction
