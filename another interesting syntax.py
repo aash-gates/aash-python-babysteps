@@ -1,12 +1,7 @@
-'''
-practice qusestion from chapter 1 Module 5 of IBM Digital Nation Courses
-by Aashik J Krishnan/Aash Gates
-'''
+cost = 20.00
+money =   10.00  # Enter an amount here before running the program
 
-#intresting syntax
-
-x = 6
-x = x + 6
-print(x)
-
-#end of the program
+if money > cost:
+    print("I can afford the Apple")
+    else
+    print("I Can't afford this Damn Apple")
