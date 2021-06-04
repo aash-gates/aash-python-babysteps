@@ -1,6 +1,6 @@
 #multiple if statements aash gates style
 
-num = input ()
+num = int (input("input a Number  :  "))
 
 print("The Number you have entered is",num)
 
@@ -17,7 +17,7 @@ time.sleep(0.55)
 if num > 20 :
     print (num, "is greater than 20")
     
-    import time
+import time
 time.sleep(1.00)
 
 print("Thanks for using this Program")
