@@ -1,11 +1,12 @@
 #Practice program IBM digital Nation
 
-Temp = 10.5
+Temp = 20
 
-if Temp > 10  :
-    print ("The Temprature is too Hot")
+if Temp > 10 < 15  :
+    print ("The Temprature is Warm")
+if Temp > 15 :
+    print ("The Temerature is too hot")
 else :
-    print ("The Temerature is Cold")
-
+    print ("The Temperature is so Cold")
   
   
