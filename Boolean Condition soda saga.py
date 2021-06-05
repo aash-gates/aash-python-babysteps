@@ -1,3 +1,4 @@
+#Booleran Condition on Soda program (IBM Digital Nation)
 is_water = input("Is water available (True or False)?")
 
 if is_water == "True":
