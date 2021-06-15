@@ -7,4 +7,3 @@ if not x :
     
 #end-of-the-program
 
-s
