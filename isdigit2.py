@@ -16,4 +16,7 @@ import time
 time.sleep(1.00)
 
 no_digit = "Onlyfans"
-print(no_digit.isdigit()) #returns
+print(no_digit.isdigit()) #returns false
+
+import time
+time.sleep(1.00)
