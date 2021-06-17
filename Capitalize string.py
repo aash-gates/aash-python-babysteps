@@ -9,6 +9,8 @@ print ("reprasing the string \n Please wait.....")
 import time
 time.sleep(1.00)
 
-new_string = string.capitalize()
+new_string = string.capitalize() #calling 
 
 print (new_string)
+
+#end-of-the-program
