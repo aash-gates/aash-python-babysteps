@@ -6,7 +6,7 @@ print (string)
 import time
 time.sleep(1.00)
 
-mystring = string.lower
+mystring = string.lower() #calling lower case method
 
 print (mystring)
 
