@@ -10,3 +10,4 @@ mystring = string.lower() #calling lower case method
 
 print (mystring)
 
+#end of the Program
