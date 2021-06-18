@@ -12,6 +12,8 @@ print(only_letters.isalnum()) #returns true
 import time
 time.sleep(1.00)
 
+import time
+time.sleep(1.00)
 
 has_digit ="8954@"
 print(has_digit.isalnum()) #returns False
