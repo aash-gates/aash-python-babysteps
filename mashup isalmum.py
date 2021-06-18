@@ -13,7 +13,6 @@ has_digit ="8954@"
 print(has_digit.isalnum()) #returns False
 
 
-
 has_letters = "aash"
 print(has_letters.isalnum()) #returns true
 
