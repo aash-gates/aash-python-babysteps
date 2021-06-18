@@ -9,8 +9,6 @@ print(only_letters.isalnum()) #returns true
 
 
 
-
-
 has_digit ="8954@"
 print(has_digit.isalnum()) #returns False
 
