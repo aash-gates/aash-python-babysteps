@@ -16,7 +16,6 @@ print(has_digit.isalnum()) #returns False
 has_letters = "aash"
 print(has_letters.isalnum()) #returns true
 
-
 has_digit_letters = "12mn3"
 print(has_digit_letters.isalnum()) #returns True
 
