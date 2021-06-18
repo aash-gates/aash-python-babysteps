@@ -4,7 +4,6 @@ only_digits ="1234567890"
 print(only_digits.isalnum()) #returns True
 
 
-
 only_letters ="aash"
 print(only_letters.isalnum()) #returns true
 
