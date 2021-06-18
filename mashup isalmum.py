@@ -17,3 +17,5 @@ print(has_digit_letters.isalnum()) #returns True
 
 no_digit_letters = "@@$&&*##"
 print(no_digit_letters.isalnum()) #returns false
+
+#end of the program
