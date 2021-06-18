@@ -35,3 +35,4 @@ time.sleep(1.00)
 
 no_digit_letters = "@@$&&*##"
 print(no_digit_letters.isalnum()) #returns false
+
