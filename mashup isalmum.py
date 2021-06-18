@@ -30,8 +30,7 @@ time.sleep(1.00)
 has_digit_letters = "12mn3"
 print(has_digit_letters.isalnum()) #returns True
 
-import time
-time.sleep(1.00)
+
 
 no_digit_letters = "@@$&&*##"
 print(no_digit_letters.isalnum()) #returns false
