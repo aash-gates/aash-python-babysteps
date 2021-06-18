@@ -1,3 +1,5 @@
+
+
 string = "aashikJKrishnan"     # Change the string text between the quotation marks to see what the program does
 
 if string.isspace():
