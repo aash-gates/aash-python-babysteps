@@ -14,3 +14,5 @@ elif string.isalnum():
 	
 else:
     print("digits, letters, and/or symbols")
+    
+#end-of-the-program
