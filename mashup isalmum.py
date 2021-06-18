@@ -9,8 +9,7 @@ time.sleep(1.00)
 only_letters ="aash"
 print(only_letters.isalnum()) #returns true
 
-import time
-time.sleep(1.00)
+
 
 
 
