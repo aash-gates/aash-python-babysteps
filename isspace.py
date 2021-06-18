@@ -8,3 +8,5 @@ print(has_space.isspace())
 
 no_space = "aash"
 print(no_space.isspace())
+
+#end of the Program
