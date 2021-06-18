@@ -24,8 +24,6 @@ time.sleep(1.00)
 has_letters = "aash"
 print(has_letters.isalnum()) #returns true
 
-import time
-time.sleep(1.00)
 
 has_digit_letters = "12mn3"
 print(has_digit_letters.isalnum()) #returns True
