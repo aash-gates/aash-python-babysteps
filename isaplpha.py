@@ -1,4 +1,4 @@
-#checking if the string value is only composed of alpabets
+#checking if the string value is only composed of alpabets IBM Digital Nation
 
 only_letters ="abcdefg"
 print(only_letters.isalpha())
