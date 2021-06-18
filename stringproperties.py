@@ -1,4 +1,4 @@
-program to check the properties of the givin string IBM Digital Nation
+$program to check the properties of the givin string IBM Digital Nation
 
 string = "aashikJKrishnan"     # Change the string text between the quotation marks to see what the program does
 
