@@ -7,3 +7,4 @@ t_char = String[7].capitalize()# seleting a Particular character and capitalizin
 
 print (t_char)
 
+#end of the Program
