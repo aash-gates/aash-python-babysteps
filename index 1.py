@@ -6,3 +6,4 @@ first_char =string[1]
 
 print (first_char)
 
+#end of the Program
