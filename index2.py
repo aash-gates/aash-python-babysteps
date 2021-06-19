@@ -2,4 +2,5 @@
 
 String = "Aash Gates"
 
-T_
+t_char = String[7]
+
