@@ -6,3 +6,4 @@ t_char = String[7]
 
 print (t_char)
 
+#end of the Program
