@@ -2,7 +2,7 @@
 
 String = "Aash Gates"
 
-t_char = String[7].capitalize() 
+t_char = String[7].capitalize()# seleting a Particular character and capitalizing it 
 
 
 print (t_char)
