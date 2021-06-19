@@ -5,3 +5,4 @@ string = "Hello World"
 first_char =string[1]
 
 print (first_char)
+
