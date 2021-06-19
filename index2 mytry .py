@@ -2,8 +2,7 @@
 
 String = "Aash Gates"
 
-t_char = String[7].
-
+t_char = String[7].capitalize() 
 
 
 print (t_char)
