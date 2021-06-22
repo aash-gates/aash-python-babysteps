@@ -1,1 +1,1 @@
-#A demo program to demS
+#A demo program to demonstrate the negative indexing of the String
