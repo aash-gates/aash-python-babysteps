@@ -3,6 +3,6 @@
 string = "Alphabet"
 last_char = string[-1]
 
-
+last_char= last_char.cap()
 
 print(last_char)
