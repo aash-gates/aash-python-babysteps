@@ -7,3 +7,4 @@ last_char= last_char.capitalize()
 
 print(last_char)
 
+#end
