@@ -5,4 +5,4 @@ last_char = string[0]
 
 print(last_char.isalpha())
 
-#end of
+#end of test program
