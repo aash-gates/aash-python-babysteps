@@ -2,4 +2,3 @@
 
 string ="Aash Gates"
 last_char = string[len(string) - 1]
-
