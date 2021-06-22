@@ -5,4 +5,4 @@ last_char = string[len(string) - 3]
 
 print(last_char)
 
-#end og the program
+#end of the program
