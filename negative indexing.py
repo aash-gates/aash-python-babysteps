@@ -2,3 +2,4 @@
 
 string = "Alphabet"
 last_char = string[-1]
+
