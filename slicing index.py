@@ -2,3 +2,4 @@
 
 String = 'Alphabet'
 slice = string[3:]
+
