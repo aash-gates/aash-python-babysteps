@@ -3,7 +3,7 @@
 String = 'Alphabet'
 slice = String[3:]
 
-slice = slice.capitalize()
+slice = slice.upper()
 
 print(slice)
 
