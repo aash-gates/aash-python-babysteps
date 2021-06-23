@@ -8,6 +8,8 @@ slice = slice.upper()
 print(slice)
 
 rejoin = String[:3]
-print rejoin
+print (rejoin)
+
+
 
 #end of the Program
