@@ -4,3 +4,5 @@
 lst_1 =  list()
 print(lst_1)
 
+lst_2 = []
+print(lst_2)
