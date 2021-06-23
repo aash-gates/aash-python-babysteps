@@ -18,7 +18,7 @@ print (rejoin)
 import time
 time.sleep(1.00)
 
-slice = slice.lower()
+slice = slice.lower() #fixint the case that was modified above with upper() function
 
 print(rejoin + slice) #joing the resultant strings 
 
