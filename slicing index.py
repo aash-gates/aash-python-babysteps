@@ -6,3 +6,4 @@ slice = String[3:]
 slice = slice.upper()
 
 print(slice)
+
