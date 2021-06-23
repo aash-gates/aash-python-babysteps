@@ -7,5 +7,5 @@ slice = slice.upper()
 
 print(slice)
 
-
+rejoin = String
 #end of the Program
