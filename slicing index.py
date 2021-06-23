@@ -7,6 +7,7 @@ slice = slice.upper()
 
 print(slice)
 
+import time
 
 rejoin = String[:3]
 print (rejoin)
