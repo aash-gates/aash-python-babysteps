@@ -7,4 +7,4 @@ slice = slice.upper()
 
 print(slice)
 
-
+#end
