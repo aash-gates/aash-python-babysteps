@@ -10,7 +10,8 @@ print(slice)
 import time
 time.sleep(1.00)
 
-#
+# My Addition
+
 rejoin = String[:3]
 print (rejoin)
 
