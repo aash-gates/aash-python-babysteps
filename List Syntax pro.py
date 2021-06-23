@@ -7,3 +7,6 @@ print(lst_1)
 lst_2 = []
 print(lst_2)
 
+'''pronka pronk nothing worked '''
+
+#this 
