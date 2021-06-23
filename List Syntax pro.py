@@ -2,3 +2,4 @@
 '''Syntax progeam'''
 
 lst_1 =  list()
+print(lst_1)
