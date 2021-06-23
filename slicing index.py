@@ -7,5 +7,6 @@ slice = slice.upper()
 
 print(slice)
 
-rejoin = String
+rejoin = String[:3]
+p
 #end of the Program
