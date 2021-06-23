@@ -10,8 +10,12 @@ print(slice)
 import time
 time.sleep(1.00)
 
+
 rejoin = String[:3]
 print (rejoin)
+
+import time
+time.sleep(1.00)
 
 slice = slice.lower()
 
