@@ -3,5 +3,5 @@
 String = 'Alphabet'
 slice = String[3:]
 
-print
+print(slice)
 
