@@ -4,5 +4,6 @@ String = 'Alphabet'
 slice = String[3:]
 
 slice = slice.capitalize()
+
 print(slice)
 
