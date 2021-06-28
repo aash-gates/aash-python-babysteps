@@ -29,3 +29,4 @@ print(x)
 
 x = 5
 x +="py"* 2
+print(x)
