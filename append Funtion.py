@@ -1,1 +1,1 @@
-#a demo program on
+#a demo program on append function and list 
