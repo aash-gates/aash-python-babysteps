@@ -8,4 +8,4 @@ print (grocery_list[2])
 print (grocery_list[3])
 print (grocery_list[4])
 
-#end of the Programprogram
+#end of the Program
