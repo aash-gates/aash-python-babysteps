@@ -2,3 +2,4 @@
 
 grocery_list=["Milk","Eggs","Bread","Rice", 20.00]
 
+print
