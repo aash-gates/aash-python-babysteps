@@ -30,6 +30,7 @@ time.sleep(3) #just trying out what i just learned  😁
 
 temp = you # you checking the weight of the apple you are going to sell on a scale.
 you = friend # friend paying you for the apple .
+friend = temp #you sell the apple which was sitting on the scale all this time.
 
 #scene 2
 
