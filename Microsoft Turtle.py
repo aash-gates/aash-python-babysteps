@@ -10,9 +10,11 @@ for _ in range(4):
   
   import turtle
   
-t = turtle.Turtle()
- 
+
+  
+t = turtle.Turtle() 
 s = 100
+turtle.left(90)
  
 for _ in range(4):
   t.forward(s) # Forward turtle by s units
