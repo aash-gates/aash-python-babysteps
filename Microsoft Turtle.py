@@ -3,8 +3,7 @@ import turtle
 t = turtle.Turtle()
  
 s = 100
-t.screen.colormode(255)
-t.color(243, 79, 28)
+t.color("Orange")
 t.begin_fill()
 for _ in range(4):
   t.forward(s) # Forward turtle by s units
