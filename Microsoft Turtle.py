@@ -20,7 +20,8 @@ for _ in range(4):
   t.left(90) # Turn turtle by 90 degree
 t.end_fill()
   
-t.color("Blue")
+t.screen.colormode(255)
+t.color(243, 79, 28)
 t.begin_fill()
 t.left(270)
 for _ in range(4):
