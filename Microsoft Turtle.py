@@ -12,7 +12,7 @@ for _ in range(4):
 t.end_fill()
 
 t.screen.colormode(255)
-t.color(243, 79, 28)
+t.color(127, 188, 0)
 t.begin_fill()
 t.forward(100)
 for _ in range(4):
