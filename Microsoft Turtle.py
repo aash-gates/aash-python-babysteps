@@ -3,7 +3,7 @@ import turtle
 t = turtle.Turtle()
  
 s = 100
-t.color("black")
+t.color(243, 79, 28)
 t.begin_fill()
 for _ in range(4):
   t.forward(s) # Forward turtle by s units
