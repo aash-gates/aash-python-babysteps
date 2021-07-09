@@ -18,7 +18,7 @@ for _ in range(4):
   t.left(90) # Turn turtle by 90 degree
 t.end_fill()
   
-t.color("Yellow")
+t.color("Blue")
 t.begin_fill()
 t.left(270)
 for _ in range(4):
@@ -26,7 +26,7 @@ for _ in range(4):
   t.left(90) # Turn turtle by 90 degree
 t.end_fill()
 
-t.color("Blue")
+t.color("Yellow")
 t.begin_fill()
 t.right(450)
 for _ in range(4):
