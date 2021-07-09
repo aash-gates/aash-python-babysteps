@@ -1,5 +1,5 @@
 import turtle
-  
+turtle.speed('normal')
 t = turtle.Turtle()
  
 s = 100
