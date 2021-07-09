@@ -17,6 +17,7 @@ for _ in range(4):
   t.forward(s) # Forward turtle by s units
   t.left(90) # Turn turtle by 90 degree
   
+  
 t.color("black")
 t.begin_fill()
 t.left(270)
