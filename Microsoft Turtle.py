@@ -1,7 +1,7 @@
 import turtle
 
 t = turtle.Turtle()
-t.speed('slow')
+t.speed(2)
  
 s = 100
 t.screen.colormode(255)
