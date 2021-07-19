@@ -2,4 +2,4 @@
 
 grocery_list= ["Milk","Eggs","Bread","rice",20.00]
 print(grocery_list)
-gr
+grocery_list[0] = "Milk"
