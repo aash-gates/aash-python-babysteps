@@ -3,3 +3,4 @@
 grocery_list= ["Milk","Eggs","Bread","rice",20.00]
 print(grocery_list)
 grocery_list[0] = "Milk"
+print(grocery_list)
