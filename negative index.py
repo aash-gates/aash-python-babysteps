@@ -5,4 +5,4 @@ print (grocery_list [-1])
 print (grocery_list[-2])
 print (grocery_list[-3])
 print (grocery_list[-4])
-print
+print (grocery_list[-5])
