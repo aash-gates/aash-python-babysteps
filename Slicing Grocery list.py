@@ -8,4 +8,3 @@ my_list = grocery_list[2:]
 
 print(your_list)
 print(my_list)
-
