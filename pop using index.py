@@ -2,3 +2,5 @@
 
 my_list = ['a', 'b', 'c', 'd', 'e']
 print(my_list.pop(2))
+
+print(my_list)
