@@ -5,3 +5,4 @@ my_list = [1 ,2 ,3 ,"Hello","World"]
 last_item = my_list.pop()
 
 print(last_item)
+
