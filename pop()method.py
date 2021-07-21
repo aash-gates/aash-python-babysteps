@@ -4,3 +4,4 @@ my_list = [1 , 2 , 3 ,"Hello" ,"World" ]
 print (my_list)
 
 import time
+time.sleep(0.99)
