@@ -5,3 +5,5 @@ print (my_list)
 
 import time
 time.sleep(0.99)
+
+my_list.pop()
