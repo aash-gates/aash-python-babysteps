@@ -2,3 +2,4 @@
 the_bool = False
 
 if the_bool == False:
+    print("the_bool is False")
