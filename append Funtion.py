@@ -8,3 +8,4 @@ grocery_list.append("Rice")
 
 print (grocery_list)
 print (len(grocery_list))
+
