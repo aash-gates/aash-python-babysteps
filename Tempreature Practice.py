@@ -7,3 +7,4 @@ if Temp > 10 < 15  :
 if Temp > 15 :
     print ("The Temerature is too hot")
 else :
+    print ("The Temperature is so Cold")
