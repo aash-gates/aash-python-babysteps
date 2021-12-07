@@ -2,3 +2,4 @@
 
 grocery_list = []
 grocery_list.append("Milk")
+grocery_list.append("Eggs")
