@@ -6,3 +6,4 @@ if num > 0:
     else:
       print("The number is positive")
 else:
+    print("The number is not positive")
