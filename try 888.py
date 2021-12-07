@@ -5,3 +5,4 @@ if num > 0:
         print("The number is positive and less than 20")
     else:
       print("The number is positive")
+else:
