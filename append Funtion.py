@@ -6,3 +6,4 @@ grocery_list.append("Eggs")
 grocery_list.append("Bread")
 grocery_list.append("Rice")
 
+print (grocery_list)
