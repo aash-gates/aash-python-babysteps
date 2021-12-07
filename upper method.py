@@ -11,3 +11,4 @@ print("converting the string to upper case")
 import time
 time.sleep(1.00)
 
+new_string = string.upper()
