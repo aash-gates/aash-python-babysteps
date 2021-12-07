@@ -8,3 +8,4 @@ if money>cost :
     
 print("After the if statement")
 
+#end-of-the-program
