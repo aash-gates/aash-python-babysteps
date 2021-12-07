@@ -4,3 +4,4 @@ string = "Aashik Socially known as aash Gates"
 print(string)
 
 import time
+time.sleep(0.33)
