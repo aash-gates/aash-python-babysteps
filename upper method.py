@@ -6,3 +6,4 @@ print(string)
 import time
 time.sleep(0.33)
 
+print("converting the string to upper case")
