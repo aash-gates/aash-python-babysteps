@@ -1,4 +1,3 @@
-by Aashik J Krishnan/Aash Gates
 '''
 
 Var1 = 12.5 + 2.5   # Addition 
