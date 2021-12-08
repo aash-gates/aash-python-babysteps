@@ -9,3 +9,4 @@ Var3 = 12.5 * 2.5   # Multiplication
 Var4 = 12.5 / 2.5   # Division
 
 print(Var1)         # float
+print(Var2)         # float
