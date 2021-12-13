@@ -2,3 +2,4 @@
 
 is_soda = True
 have_money = True
+is_thirsty = False
