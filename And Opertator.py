@@ -8,3 +8,4 @@ if is_soda and have_money and is_thirsty :
 else :
     print("I will not Purchase this drink")
     
+#end of the program
