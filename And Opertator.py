@@ -1,4 +1,3 @@
-is_thirsty = False
 if is_soda and have_money and is_thirsty :
     print ("I Will Purchase this drink")
 else :
