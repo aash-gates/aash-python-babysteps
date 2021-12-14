@@ -1,4 +1,3 @@
-
 if the_bool == False:
     print("the_bool is False")
 if the_bool != True :
