@@ -10,3 +10,4 @@ print(type(y))
 
 print(str(x))
 print(type(str(x)))
+print(str(y))
