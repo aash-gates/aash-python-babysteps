@@ -17,3 +17,4 @@ print(type(str(y)))
 
 #revision 2.1
 
+print(float("hello World"))
