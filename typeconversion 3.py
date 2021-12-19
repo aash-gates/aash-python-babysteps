@@ -8,3 +8,4 @@ y = 3
 print(y)
 print(type(y))
 
+print(str(x))
