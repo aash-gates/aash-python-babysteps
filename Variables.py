@@ -1,4 +1,3 @@
-'''
 
 #testing variables
 x = 25
