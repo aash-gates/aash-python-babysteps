@@ -1,4 +1,3 @@
-by Aashik J Krishnan/Aash Gates
 '''
 
 #testing variables
