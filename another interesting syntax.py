@@ -7,4 +7,4 @@ if money > cost:
 else :
     print("I Can't afford this Damn Apple")
     
-#end of the Program
+#end of the Program 
